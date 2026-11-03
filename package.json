@@ -1,12 +1,13 @@
 {
   "name": "fsd-mid-term-1-cse-16-2500320100447",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Student management API",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./Node.js/server.js",
+    "test": "echo \"No tests specified\" && exit 0"
   },
-  "keywords": [],
+  "keywords": ["student", "api", "express"],
   "author": "",
   "license": "ISC",
   "type": "commonjs"
